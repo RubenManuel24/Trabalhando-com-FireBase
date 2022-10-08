@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98787354840",
+    "project_id": "ultimo-56825",
+    "storage_bucket": "ultimo-56825.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98787354840:android:46cc24fc9e77cbe6a84fad",
+        "android_client_info": {
+          "package_name": "com.example.flutterlast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98787354840-3hss07pik3sunh90tduabonb8suaokis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg5WhhLLYF-WnsT7PD2nYMVPrMTBJi1YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98787354840-3hss07pik3sunh90tduabonb8suaokis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
